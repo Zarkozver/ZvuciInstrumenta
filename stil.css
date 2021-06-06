@@ -1,0 +1,40 @@
+﻿body {
+    background-color:gray;
+}
+table{
+    position:absolute;
+    left:5%;
+    top:10%;
+    border: 5px double black;
+    background-color: dimgray;
+    text-align: center;
+    width:90%;
+}
+th{
+    background-color: indianred;
+    border:2px solid;
+    font-weight: bold;
+    font-size: large;
+}
+td{
+    border:2px solid;
+    font-size: medium;
+}
+img{
+    width: 200px;
+    height: 150px;
+}
+table,tr,td{
+    border-collapse: collapse;
+}
+#link1{
+    position:absolute;
+    right: 5%;
+    top:6%;
+
+}
+#link2 {
+    position: absolute;
+    right: 12%;
+    top: 6%;
+}
